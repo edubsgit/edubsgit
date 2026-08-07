@@ -6,7 +6,7 @@
 Tenho 20 anos e sou movida pela curiosidade técnica: gosto de entender a lógica de cada processo a fundo, seja desvendando vulnerabilidades ou construindo soluções inteligentes. Acredito no aprendizado prático e contínuo — testar, quebrar, consertar, proteger e repetir.
 
 - 🎓 Graduanda em ADS na **Universidade Tecnológica Federal do Paraná** (Campus Ponta Grossa)
-- 📍 De Ponta Grossa, PR, para o mundo.
+- 📍 De Ponta Grossa, PR.
 - 🌱 Atualmente focando em aprofundar meus conhecimentos em: **Cybersecurity, Machine Learning e IA**
 - 💬 Pergunte-me sobre: **O que eu ando estudando e descobrindo na faculdade**
 
@@ -15,17 +15,12 @@ Tenho 20 anos e sou movida pela curiosidade técnica: gosto de entender a lógic
 ### 📚 Tecnologias & Ferramentas em Estudo
 *Estas são as ferramentas e linguagens que utilizo no meu dia a dia de aprendizado na faculdade:*
 
-![Python](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io) ![VS Code](https://shields.io)
+| Linguagem | Controle de Versão | Plataforma | Editor |
+| :---: | :---: | :---: | :---: |
+| 🐍 **Python** | 🌿 **Git** | 🐙 **GitHub** | 💻 **VS Code** |
 
 ---
 
 ### 📬 Como me encontrar
-
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/maria-eduarda-souza-barbosa-aa1265418/)
-[![Email](https://shields.io)](mailto:eduardasouxza2006@gmail.com)
-
----
-
-### 📊 Estatísticas de Aprendizado
-
-![Status do GitHub](https://vercel.app)
+- 📧 **E-mail:** [eduardasouxza2006@gmail.com](mailto:eduardasouxza2006@gmail.com)
+- 💼 **LinkedIn:** *[https://www.linkedin.com/in/maria-eduarda-souza-barbosa-aa1265418/]*
