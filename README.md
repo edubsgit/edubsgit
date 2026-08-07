@@ -22,5 +22,5 @@ Tenho 20 anos e sou movida pela curiosidade técnica: gosto de entender a lógic
 ---
 
 ### 📬 Como me encontrar
-- 📧 **E-mail:** [eduardasouxza2006@gmail.com](mailto:eduardasouxza2006@gmail.com)
-- 💼 **LinkedIn:** *https://www.linkedin.com/in/maria-eduarda-souza-barbosa-aa1265418/*
+- 💼 **[Acesse meu LinkedIn](https://www.linkedin.com/in/maria-eduarda-souza-barbosa-aa1265418/m)**
+- 📧 **[Me envie um E-mail](mailto:eduardasouxza2006@gmail.com)**
